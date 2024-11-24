@@ -1,0 +1,412 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.20f1 (61c2feb0970d) revision 6406910'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ru' Physical Memory: 7959 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Projects/Portfolio/Portfolio_ProBuilder/Portfolio_ProBuilder
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59254
+Successfully changed project path to: C:/Projects/Portfolio/Portfolio_ProBuilder/Portfolio_ProBuilder
+C:/Projects/Portfolio/Portfolio_ProBuilder/Portfolio_ProBuilder
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17104] Host "[IP] 192.168.0.102 [Port] 0 [Flags] 2 [Guid] 1261331743 [EditorId] 1261331743 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-6UT9UHGC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [17104] Host "[IP] 192.168.0.102 [Port] 0 [Flags] 2 [Guid] 1261331743 [EditorId] 1261331743 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-6UT9UHGC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 6.76 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.20f1 (61c2feb0970d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Projects/Portfolio/Portfolio_ProBuilder/Portfolio_ProBuilder/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25e2)
+    Vendor:   NVIDIA
+    VRAM:     3977 MB
+    Driver:   31.0.15.4630
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56420
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006069 seconds.
+- Loaded All Assemblies, in  0.377 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 269 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.588 seconds
+Domain Reload Profiling: 964ms
+	BeginReloadAssembly (113ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (156ms)
+		LoadAssemblies (112ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (151ms)
+				TypeCache.ScanAssembly (136ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (588ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (530ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (369ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (111ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.679 seconds
+Refreshing native plugins compatible for Editor in 3.02 ms, found 6 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.764 seconds
+Domain Reload Profiling: 1442ms
+	BeginReloadAssembly (140ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (461ms)
+		LoadAssemblies (314ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (228ms)
+			TypeCache.Refresh (196ms)
+				TypeCache.ScanAssembly (176ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (764ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (592ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (427ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.93 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5336 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (2.1 MB). Loaded Objects now: 5779.
+Memory consumption went from 202.8 MB to 200.7 MB.
+Total: 6.699600 ms (FindLiveObjects: 0.596500 ms CreateObjectMapping: 0.850800 ms MarkObjects: 4.266600 ms  DeleteObjects: 0.983900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 97142.323327 seconds.
+  path: Assets/ProBuilder Data/Default Material Palette.asset
+  artifactKey: Guid(087d611cd12dff14e8baeec1f07b1979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProBuilder Data/Default Material Palette.asset using Guid(087d611cd12dff14e8baeec1f07b1979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719872593d2ece89276ffe335d34caaf') in 0.014470 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 423.395984 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Car/Car.fbx
+  artifactKey: Guid(697a2634c7f0f4486a19f0cb191afd19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Car/Car.fbx using Guid(697a2634c7f0f4486a19f0cb191afd19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0f06df0609b8bf4825a252a9d064ff') in 0.194916 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/Grey.mat
+  artifactKey: Guid(65cbd1b7d371a41229070ea3f3994fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/Grey.mat using Guid(65cbd1b7d371a41229070ea3f3994fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe6b3bc607c0a7b1d2a67f54fc27fcb') in 0.948019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/Unlit Line.mat
+  artifactKey: Guid(5e76b7ba2cd04b7008736d70ccdf0aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/Unlit Line.mat using Guid(5e76b7ba2cd04b7008736d70ccdf0aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e93b5a8c043a1bc2924765bff3f9695') in 0.554554 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/White.mat
+  artifactKey: Guid(8139659bb1c484e4e94d8a0c82107a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/White.mat using Guid(8139659bb1c484e4e94d8a0c82107a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf76161bd4615d008dd7efffc02f7b7') in 0.028783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Shader/Lit.shadergraph
+  artifactKey: Guid(2de5d28125b5b4b36b52de0a0e164e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Shader/Lit.shadergraph using Guid(2de5d28125b5b4b36b52de0a0e164e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be4e0ac7cedc7dca275ee427829cf44') in 0.017844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Misc/Grass01.fbx
+  artifactKey: Guid(f6e0061384eef421ebdb1c9ea3ec45cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Misc/Grass01.fbx using Guid(f6e0061384eef421ebdb1c9ea3ec45cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29427da2388775a9d0d9b8a515d1b35a') in 0.024770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Shader/UnlitColor.shadergraph
+  artifactKey: Guid(cb5e712464e0743bd803a1ff1ff5e24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Shader/UnlitColor.shadergraph using Guid(cb5e712464e0743bd803a1ff1ff5e24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524f29ada313769ee8f2d50a57a78371') in 0.013228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Building01.fbx
+  artifactKey: Guid(a1ed78693228f4b948cf3a82e1eddf33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Building01.fbx using Guid(a1ed78693228f4b948cf3a82e1eddf33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069f39ab64d362f081b839a9a2fe79aa') in 0.041737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Car/Materials/CarWheels.mat
+  artifactKey: Guid(d6f21734cbe2e434490f905f85b4d0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Car/Materials/CarWheels.mat using Guid(d6f21734cbe2e434490f905f85b4d0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b9697008727b74383bab8cf8bb1273') in 0.022509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Misc/Materials/Cobblestones.mat
+  artifactKey: Guid(a95546ce182494a03939c61bbcea3e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Misc/Materials/Cobblestones.mat using Guid(a95546ce182494a03939c61bbcea3e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd617b73c9e9cc22062307a873205bc') in 0.015219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Misc/Grass02.fbx
+  artifactKey: Guid(d4582e526bc0d42edb53639140c21aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Misc/Grass02.fbx using Guid(d4582e526bc0d42edb53639140c21aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ea90ac482310575423486e1ea01224') in 0.019276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Windows.mat
+  artifactKey: Guid(7f09bfa3613b742c29bf4b4701a5da70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Windows.mat using Guid(7f09bfa3613b742c29bf4b4701a5da70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdf40a902d42bf48c429bb6bd6e2534') in 0.016150 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/NearestSphere.mat
+  artifactKey: Guid(a5195518525b68e1d89b1fd66b48d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/NearestSphere.mat using Guid(a5195518525b68e1d89b1fd66b48d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1238d8b7698217dbf3b03bd2f5115c6') in 0.012739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Ground/Ground.fbx
+  artifactKey: Guid(f440085ba63a64305bd5058852019ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Ground/Ground.fbx using Guid(f440085ba63a64305bd5058852019ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd057a10a5dfe10e68c62fcaab7be3949') in 0.022683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Sign/Materials/SignBase.mat
+  artifactKey: Guid(414c55d5abdf744d58827e29f55d3934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Sign/Materials/SignBase.mat using Guid(414c55d5abdf744d58827e29f55d3934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e575624177148b761e8ab05920e9f9a') in 0.019486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Doors.mat
+  artifactKey: Guid(426122affcfb343508077f678c4fe300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Doors.mat using Guid(426122affcfb343508077f678c4fe300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61b5a717fe20419d228c68dfe945732') in 0.015859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/CrossWalk/White.mat
+  artifactKey: Guid(233ed62ee749644e4a87ff99e36a3b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/CrossWalk/White.mat using Guid(233ed62ee749644e4a87ff99e36a3b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299ce00805f276dae894777beb66d57c') in 0.014501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Building02.fbx
+  artifactKey: Guid(4c81f6b40827c4b068fa8069e54899bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Building02.fbx using Guid(4c81f6b40827c4b068fa8069e54899bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27bef0ba68f70e0e71c5bfc76246dc6') in 0.037595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/NearestPoint.mat
+  artifactKey: Guid(7aeec11f0dda10a2b9212a6fe7cdbed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/NearestPoint.mat using Guid(7aeec11f0dda10a2b9212a6fe7cdbed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cff231e1418f7f4bb9e71195c531ab4') in 0.016095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Sign/Materials/Sign.mat
+  artifactKey: Guid(7875862122492497997974a9fbb65889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Sign/Materials/Sign.mat using Guid(7875862122492497997974a9fbb65889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4d44aa6268d8da5b82e85b2b9ac7c6') in 0.017758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Ground/Material/GroundGreen.mat
+  artifactKey: Guid(3b7be7e42927c4202be3f9eca1a000ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Ground/Material/GroundGreen.mat using Guid(3b7be7e42927c4202be3f9eca1a000ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b20d2761974a456791b48e62281b9d') in 0.017924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Trees/Trunk.mat
+  artifactKey: Guid(98e7d2883014cbd4db8476d783163490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Trees/Trunk.mat using Guid(98e7d2883014cbd4db8476d783163490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2826ee731a624d1f6c70ccf6747abb2c') in 0.015031 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Roof02.mat
+  artifactKey: Guid(4975e869d385c49f2ad6bedb34818188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Roof02.mat using Guid(4975e869d385c49f2ad6bedb34818188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5b75d333420aa44f7c4b044a9f2796') in 0.015367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Walls01.mat
+  artifactKey: Guid(e5dbed61dccd44ceab86c021e2e78122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Models/Buildings/Materials/Walls01.mat using Guid(e5dbed61dccd44ceab86c021e2e78122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22d3d11bf0e8d89afdd201143f14c62') in 0.014664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/Wire.mat
+  artifactKey: Guid(2b67e7a88933ad040a2d8b3ad4ca41ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/Wire.mat using Guid(2b67e7a88933ad040a2d8b3ad4ca41ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24acb35090bc14bf1e97a82abb935b0d') in 0.011952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/PaintSamplePointDot.mat
+  artifactKey: Guid(3b81d911d585a4a918eda5759810639e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Splines/2.5.2/Spline Examples (requires Shader Graph package)/Materials/PaintSamplePointDot.mat using Guid(3b81d911d585a4a918eda5759810639e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa27705907eb87746dbb57ac6678fff1') in 0.432713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 548.448227 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png
+  artifactKey: Guid(6344bf96fbda94141a525046d088fb23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png using Guid(6344bf96fbda94141a525046d088fb23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12c464a6cc21fae8e727594a2953d35') in 0.022820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
